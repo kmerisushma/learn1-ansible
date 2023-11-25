@@ -23,3 +23,4 @@
         msg: "{{ URL2 }}"
       vars:
         URL2: sample.com
+
