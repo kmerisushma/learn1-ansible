@@ -2,5 +2,5 @@
   hosts: all
   tasks:
     - name: Ping
-      ansible.buitin.ping:
+      ansible.builtin.ping:
 
