@@ -7,4 +7,5 @@
       ansible.builtin.debug:
         msg: "{{ URL }}"
 
+
 # values starts with a variable like msg:{{ URL }} then quotesare needed , if it does not start with variable like msg: Hello {{ URL }}; then quotes are not needed
